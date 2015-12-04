@@ -1,3 +1,6 @@
+# Priavte files
+VPN Gate.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
